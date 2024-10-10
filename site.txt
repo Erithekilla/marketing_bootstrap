@@ -1,0 +1,43 @@
+Olá!
+
+Estou interessado em desenvolver um site para o meu negócio de consultoria em marketing digital. Aqui estão algumas informações sobre o que eu gostaria:
+1. Objetivo do Site
+
+Quero um site de uma única página para apresentar meus serviços de forma clara e direta.
+
+2. Design e Estilo
+
+    Cores: Uma paleta de azul e branco.
+    Fontes: Modernas e fáceis de ler.
+    Layout: Um design responsivo, com seções bem definidas.
+
+3. Conteúdo
+
+    Seções necessárias:
+        Introdução sobre nós
+        Serviços oferecidos
+        Depoimentos de clientes
+        Formulário de contato
+
+4. Funcionalidades
+
+    Um formulário de contato na parte inferior da página.
+    Uma seção de depoimentos com rotação automática dos comentários.
+
+5. Interatividade
+
+    Efeitos suaves ao rolar a página.
+    Animações no botão de envio do formulário.
+
+6. SEO e Acessibilidade
+
+    Otimização para SEO e boas práticas de acessibilidade.
+
+7. Prazo e Orçamento
+
+    Prazo: Gostaria que o site estivesse pronto em um mês.
+    Orçamento: Entre R$ 2.000 e R$ 3.000.
+
+Se precisar de mais informações ou quiser discutir algo, estou à disposição!
+
+Obrigado!

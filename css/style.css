@@ -1,0 +1,20 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-item img{
+    height: 100%;
+    object-fit: fill;
+    object-position: center;
+}
+
+.form-control[type="number"]::-webkit-outer-spin-button,
+.form-control[type="number"]::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin:0;
+}
+

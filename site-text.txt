@@ -1,0 +1,58 @@
+1. Header
+
+Logotipo: [Seu Logotipo Aqui]
+Menu: Home | Sobre Nós | Serviços | Depoimentos | Contato
+2. Seção de Introdução (Hero Section)
+
+Título: Transforme sua Presença Digital
+Texto: Impulsione seu negócio com estratégias de marketing digital personalizadas que realmente funcionam.
+CTA: [Entre em Contato]
+
+3. Seção Sobre Nós
+
+Texto:
+Na [Nome da Empresa], somos apaixonados por ajudar empresas a alcançarem seu potencial máximo na era digital. Com uma equipe experiente e comprometida, oferecemos soluções de marketing que vão desde consultoria até implementação. Nossa missão é guiá-lo em cada passo do caminho, garantindo que sua presença online seja forte e impactante.
+
+4. Seção de Serviços
+
+Título: Nossos Serviços
+Texto:
+
+    Consultoria em Marketing Digital: Avaliamos sua presença online e criamos um plano estratégico adaptado às suas necessidades.
+
+    Gestão de Redes Sociais: Conectamos você ao seu público com conteúdos envolventes e campanhas direcionadas.
+    SEO e Otimização de Conteúdo: Melhoramos a visibilidade do seu site nos motores de busca, atraindo mais visitantes qualificados.
+    
+    Análise de Dados: Monitoramos e analisamos o desempenho das suas campanhas, ajustando estratégias para melhores resultados.
+
+5. Seção de Depoimentos
+
+Título: O que nossos clientes dizem
+Depoimento 1:
+"Graças à [Nome da Empresa], nossa presença online nunca foi tão forte. A equipe é incrível!"
+— [Nome do Cliente], [Cargo, Empresa]
+
+Depoimento 2:
+"Os resultados foram impressionantes! Altamente recomendados!"
+— [Nome do Cliente], [Cargo, Empresa]
+6. Seção de Contato
+
+Texto:
+Estamos aqui para ajudar! Preencha o formulário abaixo e entraremos em contato rapidamente.
+
+Formulário:
+
+    Nome: [Campo de texto]
+    E-mail: [Campo de texto]
+    Mensagem: [Campo de texto grande]
+    [Botão de Enviar]
+
+Informações adicionais:
+Telefone: [Seu Número]
+E-mail: [Seu E-mail]
+Siga-nos nas redes sociais: [Links para redes sociais]
+7. Footer
+
+Texto:
+© [Ano] [Nome da Empresa]. Todos os direitos reservados.
+[Links: Políticas de Privacidade | Termos de Uso]
